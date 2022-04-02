@@ -20,5 +20,6 @@ The analysis of school data is often crucial to determine the district's allocat
 
 * As far as their perfomance, Thomas high school does not change very much relative to other schools.  In both the original and revised analysis, Thomas High School is still the number two school for overall percentage of students passing math and reading.  Thomas High School's percentage of students passing reading and percentage passsing math and reading both decrease about .3% from the original analysis to the updated analysis.  This does bring Thomas High School closer to the the number three spot overall in the district, as the current number three school, Griffin High School, has about a 90.6% overall passing rate compared to Thomas' overall passing rate of 90.63%.  The percentage of students passing reading and math was higher for Thomas in the original analysis, putting them closer to the number one schoool, Cabrera High School. 
 ### Original Top Schools
-![OTS]()
+![OTS](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/original_top_schools.PNG)
 ### Revised Top Schools
+![RTS](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/revised_top_schools.PNG)
