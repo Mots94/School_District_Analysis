@@ -23,3 +23,10 @@ The analysis of school data is often crucial to determine the district's allocat
 ![OTS](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/original_top_schools.PNG)
 ### Revised Top Schools
 ![RTS](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/revised_top_schools.PNG)
+
+* Replacing the ninth-grade scores for math and reading only affected the average math and reading scores for ninth graders.  Due to the fact that no data exists any longer for ninth-graders, the average math and reading scores for their grade level do not exist.  Each grade level had its average scores calculated separate from one another, so not including the ninth-grade reading and math scores did not affect those other average scores.
+* In the scores by school spending analysis, four bins were created based on school spending per student.  The four bins were <$586, $586-630, $631-645, and $646-675.  Thomas High School fell into the $631-645 bin, and because they are the only school with score data that changed that is the only spending bin that saw a performance difference.  In the original analysis, that bin had an overall student passing rate of 62.86%.  In the revised analysis, there was a decrease to 62.78%.  This can be seen in the following output:
+### Original Spending Bins
+![OSB](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/original_spending_bins.PNG)
+### Revised Spending Bins
+![RSB](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/revised_spending_bins.PNG)
