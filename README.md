@@ -14,5 +14,6 @@ The analysis of school data is often crucial to determine the district's allocat
 
 * Furthermore, reading and math scores for Thomas High School did change for the individual school analyses after data set revision.  In the original analysis, the average math score for Thomas High School was 83.42, and dropped to 83.35 in the revised analysis.  Reading scores actually increased from an average of 83.85 to 83.90.  There was also a change in percentages of students passing math, reading, and math and reading.  In all cases, the percentage of students passing one or both subjects decreased from the original analysis to the revised analysis.
 ### Original Per School Analysis
-
+![OSA](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/school_analysis_original.PNG)
 ### Revised Per School Analysis
+![RSA](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/school_analysis_revised.PNG)
