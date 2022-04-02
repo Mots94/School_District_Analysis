@@ -1,5 +1,5 @@
 # School_District_Analysis
-![class](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/classroom.jpg)
+![class](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/classroom.png)
 ## Using Python to analyze standardized test scores
 
 ## Overview
