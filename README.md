@@ -33,7 +33,7 @@ The analysis of school data is often crucial to determine the district's allocat
 ![OMRS](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/original_math_by_grade.PNG) ![OMRS2](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/original_reading_by_grade.PNG)
 #### Revised Math and Reading Scores by Grade
 ![RMRS](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/revised_math_by_grade.PNG) ![RMRS2](https://github.com/Mots94/School_District_Analysis/blob/main/Resources/revised_reading_by_grade.PNG)
-
+---
 * In the school spending analysis, four bins were created based on school spending per student.  The four bins were <$586, $586-630, $631-645, and $646-675.  Thomas High School fell into the $631-645 bin. They are the only school with score data that changed, so that is the only spending bin that saw a performance difference.  In the original analysis, that bin had an overall student passing rate of 62.86%.  In the revised analysis, there was a decrease to 62.78%.  This can be seen in the following output:
 
 #### Original Spending Bins Analysis
